@@ -52,3 +52,21 @@ addBtn.addEventListener("click", add);
 subtractBtn.addEventListener("click", substract);
 multiplyBtn.addEventListener("click", multiply);
 divideBtn.addEventListener("click", devide);
+
+
+
+func1 = ()=>{
+  console.log("func1 call");
+}
+
+
+
+func2 = ()=>{
+  console.log("func2 call");
+}
+
+
+
+
+func1();
+func2();
